@@ -1,1 +1,1 @@
-# handbook
+# GDG Event Handbook
